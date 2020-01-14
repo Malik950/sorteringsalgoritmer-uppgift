@@ -1,0 +1,4 @@
+C:\Users\Elev\source\repos\sorteringsalgoritmer\sorteringsalgoritmer\obj\Debug\netcoreapp2.1\sorteringsalgoritmer.csprojAssemblyReference.cache
+C:\Users\Elev\source\repos\sorteringsalgoritmer\sorteringsalgoritmer\obj\Debug\netcoreapp2.1\sorteringsalgoritmer.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\sorteringsalgoritmer\sorteringsalgoritmer\obj\Debug\netcoreapp2.1\sorteringsalgoritmer.AssemblyInfoInputs.cache
+C:\Users\Elev\source\repos\sorteringsalgoritmer\sorteringsalgoritmer\obj\Debug\netcoreapp2.1\sorteringsalgoritmer.AssemblyInfo.cs
